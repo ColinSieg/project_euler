@@ -35,4 +35,4 @@ function smallestMultiple(n) {
     multiple += step
   }
 }
-console.log(`Answer is ${smallestMultiple(8)}.`)
+console.log(`Answer is ${smallestMultiple(20)}.`)
